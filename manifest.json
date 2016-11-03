@@ -3,6 +3,7 @@
   "name": "Kinlan's Amazing Application ++",
 
   "start_url": "/index.html",
-  "display": "standalone",
-  "orientation": "landscape"
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "red"
 }
