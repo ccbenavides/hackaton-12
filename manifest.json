@@ -1,9 +1,9 @@
 {
-  "short_name": "Kinlan's Amaze App",
-  "name": "Kinlan's Amazing Application ++",
+  "short_name": "Denuncia App",
+  "name": "Denuncialo",
 
-  "start_url": "/index.html",
+  "start_url": "index.html",
   "display": "fullscreen",
   "orientation": "landscape",
-  "background_color": "red"
+  "background_color": "#E59A13"
 }
